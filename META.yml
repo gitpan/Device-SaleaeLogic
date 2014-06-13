@@ -1,5 +1,5 @@
 ---
-abstract: 'Perl extension for blah blah blah'
+abstract: 'Perl extension for accessing the Logic or Logic16 devices made by Saleae Logic.'
 author:
   - 'Vikas Kumar <vikas@selectiveintellect.com>'
 build_requires:
@@ -21,4 +21,4 @@ no_index:
 requires:
   Archive::Zip: 0
   LWP::Simple: 0
-version: 0.01
+version: 0.02
